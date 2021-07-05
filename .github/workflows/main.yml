@@ -41,6 +41,7 @@ jobs:
     - run: npm run cy:run
     
     # Gerar o relatorio em HTML
+    - run: npm run report:merge
     - run: npm run report:mocha
     
     # Publicar relatorio em HTML
