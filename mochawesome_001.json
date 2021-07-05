@@ -5,9 +5,9 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2021-07-05T15:31:38.433Z",
-    "end": "2021-07-05T15:31:52.402Z",
-    "duration": 13969,
+    "start": "2021-07-05T15:42:27.281Z",
+    "end": "2021-07-05T15:42:45.153Z",
+    "duration": 17872,
     "testsRegistered": 1,
     "passPercent": 100,
     "pendingPercent": 0,
@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "uuid": "dc634861-4f45-48a1-9776-852621fd6e3a",
+      "uuid": "31c8b6b4-65a1-4089-9150-9f19f03459be",
       "title": "",
       "fullFile": "cypress/integration/newUser.spec.js",
       "file": "cypress/integration/newUser.spec.js",
@@ -27,7 +27,7 @@
       "tests": [],
       "suites": [
         {
-          "uuid": "bb6b82bb-6042-4a8d-9354-adfb1e38a4d7",
+          "uuid": "d1e7fd4b-2ed1-413b-abc5-6a9fee4acfa7",
           "title": "Cadastro de um novo Usuario",
           "fullFile": "",
           "file": "",
@@ -38,7 +38,7 @@
               "title": "Cadastrar o usuario novo no site de Testes",
               "fullTitle": "Cadastro de um novo Usuario Cadastrar o usuario novo no site de Testes",
               "timedOut": null,
-              "duration": 13925,
+              "duration": 17806,
               "state": "passed",
               "speed": "slow",
               "pass": true,
@@ -47,20 +47,20 @@
               "context": null,
               "code": "cy.visit(\"http://automationpractice.com\");\ncy.get('.login').click();\ncy.get('#email_create').type(chance.email());\ncy.get('#SubmitCreate > span').click(); //Preencher Cadastro\ncy.get('#id_gender1').check();\ncy.get('#customer_firstname').type(chance.first());\ncy.get('#customer_lastname').type(chance.last());\ncy.get('#passwd').type('123456');\ncy.get('#days').select('18');\ncy.get('#months').select('November');\ncy.get('#years').select('1988');\ncy.get('#newsletter').check();\ncy.get('#optin').check();\ncy.get('#address1').type(chance.address());\ncy.get('#city').type(chance.city());\ncy.get('#id_state').select('Arkansas');\ncy.get('#postcode').type(chance.zip());\ncy.get('#phone_mobile').type(chance.phone({\n  formatted: false\n}));\ncy.get('#alias').clear();\ncy.get('#alias').type('Agilizei');\ncy.get('#submitAccount > span').click();\ncy.url().should('contain', 'index.php?controller=my-account');\ncy.get('.info-account').should('contain.text', 'Welcome to your account');",
               "err": {},
-              "uuid": "7e41ead4-6a58-4629-b8be-adc91076e506",
-              "parentUUID": "bb6b82bb-6042-4a8d-9354-adfb1e38a4d7",
+              "uuid": "2be31f72-1073-477a-bf5d-16eef3228e04",
+              "parentUUID": "d1e7fd4b-2ed1-413b-abc5-6a9fee4acfa7",
               "isHook": false,
               "skipped": false
             }
           ],
           "suites": [],
           "passes": [
-            "7e41ead4-6a58-4629-b8be-adc91076e506"
+            "2be31f72-1073-477a-bf5d-16eef3228e04"
           ],
           "failures": [],
           "pending": [],
           "skipped": [],
-          "duration": 13925,
+          "duration": 17806,
           "root": false,
           "rootEmpty": false,
           "_timeout": 2000
