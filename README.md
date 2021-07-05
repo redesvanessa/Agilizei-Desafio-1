@@ -1,4 +1,5 @@
-# Agilizei-Desafio-1
+# Agilizei-Desafio-1 
+#Cypress #Agilizei #QA #Tester #Automacao
 
 <img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif" />
 
@@ -44,3 +45,5 @@ Importante:<br>
 [⚡️] Adicione a action para publicar o relatório do mochawesome <br>
 [⚡️] Lembre-se, para o resultado aparecer o arquivo do relatório deve ser index.html ⛄️ <br>
 [⚡️] Crie uma descrição de seu projeto no Github com imagem ou vídeos da execução, tecnologias, tags e aprendizados <br>
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.canva.com/design/DAEjV_dfXec/AMJ2ugtH-8ZyQyN9cOecqw/watch?utm_content=DAEjV_dfXec&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
