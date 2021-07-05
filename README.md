@@ -46,4 +46,4 @@ Importante:<br>
 [⚡️] Lembre-se, para o resultado aparecer o arquivo do relatório deve ser index.html ⛄️ <br>
 [⚡️] Crie uma descrição de seu projeto no Github com imagem ou vídeos da execução, tecnologias, tags e aprendizados <br>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.canva.com/design/DAEjV_dfXec/AMJ2ugtH-8ZyQyN9cOecqw/watch?utm_content=DAEjV_dfXec&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[![Watch the video]](https://www.canva.com/design/DAEjV_dfXec/AMJ2ugtH-8ZyQyN9cOecqw/watch?utm_content=DAEjV_dfXec&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
