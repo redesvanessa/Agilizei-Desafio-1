@@ -39,8 +39,8 @@ Importante:<br>
 [⚡️] Adicionar as configurações para gerar os arquivos do relatório <br>
 [⚡️] Adicionar os scripts para geração dos relatórios em html <br>
 [⚡️] Suba seu projeto no Github <br>
-[ ] Configure as actions para executar os testes <br>
-[ ] Habilite o GH Pages <br>
-[ ] Adicione a action para publicar o relatório do mochawesome <br>
-[ ] Lembre-se, para o resultado aparecer o arquivo do relatório deve ser index.html ⛄️ <br>
-[ ] Crie uma descrição de seu projeto no Github com imagem ou vídeos da execução, tecnologias, tags e aprendizados <br>
+[⚡️] Configure as actions para executar os testes <br>
+[⚡️] Habilite o GH Pages <br>
+[⚡️] Adicione a action para publicar o relatório do mochawesome <br>
+[⚡️] Lembre-se, para o resultado aparecer o arquivo do relatório deve ser index.html ⛄️ <br>
+[⚡️] Crie uma descrição de seu projeto no Github com imagem ou vídeos da execução, tecnologias, tags e aprendizados <br>
